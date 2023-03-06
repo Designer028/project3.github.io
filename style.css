@@ -180,9 +180,9 @@ body.active{
   letter-spacing: 1px;
 }
 
-.credit {
+.themes-container .credit{
   text-align: center;
   font-size: medium;
-  margin-top: 150px;
+  margin-top: 160px;
   color: #2980b9;
 }
